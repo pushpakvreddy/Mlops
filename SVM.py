@@ -4,7 +4,7 @@ import pandas as pd
 from sklearn.svm import SVC
 
 # Training data
-X = [[30], [40], [50], [60], [20], [10], [70]]
+X = [[30], [40], [50], [60], [20], [10], [69]]
 y = [0, 1, 1, 1, 0, 0, 1]
 
 # Create and train the SVM classifier
